@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T07:36:33.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="0Yj7kCuBKAo5M0JHikwl" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T07:40:03.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="lyqyr6FTgLZPFFipU294" version="14.2.9" type="github">
   <diagram id="fv5evoYtGH5XONXC8h3Q" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,6 +48,21 @@
             <mxPoint x="390" y="270" as="sourcePoint" />
             <mxPoint x="440" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3djxkH0xjZOtd9b_SUPC-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/add-128.png" vertex="1" parent="1">
+          <mxGeometry x="346" y="170" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="3djxkH0xjZOtd9b_SUPC-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/add-128.png" vertex="1" parent="1">
+          <mxGeometry x="346" y="290" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="3djxkH0xjZOtd9b_SUPC-18" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Prenota un &lt;br&gt;parcheggio&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3djxkH0xjZOtd9b_SUPC-19" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Prenota un &lt;br&gt;parcheggio&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3djxkH0xjZOtd9b_SUPC-20" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Parcheggi non&lt;br&gt;disponibili&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
